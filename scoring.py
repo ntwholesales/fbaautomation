@@ -1,11 +1,7 @@
-"""
-Turns raw Keepa product stats into a single 0-100 "opportunity score" plus
-the underlying fields, so you can re-sort/filter in a spreadsheet however
-you like. This is a demand/competition heuristic, NOT a margin calculation
-(we don't know your supplier cost yet).
+"""Turn raw Keepa statistics into a 0-100 opportunity score.
 
-Adjust the weights in `score_product` once you've seen real output and have
-a feel for what predicts a good sourcing lead for you.
+The score is a demand/competition heuristic, not a margin calculation:
+supplier cost, Amazon fees, and eligibility still need separate checks.
 """
 
 from constants import CSV_TYPE
@@ -61,28 +57,23 @@ def passes_filters(fields: dict, cfg) -> bool:
 
 
 def score_product(fields: dict) -> float:
-    """
-    Higher score = more attractive to look into further.
-    Rewards: better (lower) sales rank, fewer competing offers, higher
-    rating, more reviews (proven demand). Penalizes Amazon itself selling
-    the listing (much harder to win the buy box against Amazon directly).
-    """
+    """Return a 0-100 score; higher means a more promising lead."""
     score = 0.0
 
-    if fields["sales_rank"]:
-        # Lower rank is better; compress with a log-ish curve.
-        score += max(0, 100 - (fields["sales_rank"] / 1000))
+    if fields["sales_rank"] is not None:
+        # Lower rank is better. Products at rank 100,000 or worse earn zero.
+        score += max(0, 50 - (fields["sales_rank"] / 2_000))
 
     if fields["offer_count"] is not None:
-        score += max(0, 20 - fields["offer_count"])  # fewer sellers = better
+        score += max(0, 20 - fields["offer_count"])
 
     if fields["rating"] is not None:
-        score += fields["rating"] * 5  # up to 25 pts
+        score += min(20, fields["rating"] * 4)
 
     if fields["review_count"] is not None:
-        score += min(20, fields["review_count"] / 50)  # diminishing returns
+        score += min(10, fields["review_count"] / 100)
 
     if fields["amazon_sells_it"]:
-        score -= 30  # hard to compete directly against Amazon on its own listing
+        score -= 20
 
-    return round(score, 2)
+    return round(max(0, min(100, score)), 2)
