@@ -11,9 +11,9 @@ load_dotenv()
 
 KEEPA_API_KEY = os.getenv("KEEPA_API_KEY", "")
 
-# Amazon marketplace domain id used by Keepa. 1 = amazon.com (US).
+# Amazon marketplace domain id used by Keepa. 2 = amazon.co.uk (UK).
 # Others: 2=UK, 3=DE, 4=FR, 5=JP, 6=CA, 8=IT, 9=ES, 10=IN, 11=MX, 12=BR, 13=AU
-DOMAIN = 1
+DOMAIN = 2
 
 # Brands to scan. Keepa's brand filter uses OR logic across a list, but we
 # query one brand at a time so the CSV output tells you which brand each
