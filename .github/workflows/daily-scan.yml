@@ -2,7 +2,7 @@ name: Daily FBA Product Scan
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '45 6 * * *'
   workflow_dispatch:
 
 permissions:
