@@ -1,50 +1,50 @@
 score,brand,asin,title,sales_rank,offer_count,rating,review_count,price_usd,amazon_sells_it,amazon_url
-96.96,Philips,B01KHIM1R4,"PHILIPS LED E27 Frosted Light Bulbs, 11 W (75 W) - Warm White, Pack of 6, Standard Range",72,1,4.5,1658,31.99,False,https://www.amazon.com/dp/B01KHIM1R4
-96.95,Philips,B01KHIM7OG,"Philips LED E27 Frosted Light Bulbs, 8 W (60 W) - Warm White, Pack of 6, Standard Range",90,1,4.5,6043,34.99,False,https://www.amazon.com/dp/B01KHIM7OG
-90.8,Philips,B0F4KLJ12Q,"Philips Solar Security Outdoor LED 6500K, Solar-Powered Flood w/PIR Motion Sensor, Remote Control w/16ft Cable, IP65 Wat",190,1,4.4,429,19.99,False,https://www.amazon.com/dp/B0F4KLJ12Q
-90.78,Philips,B0F4KN1LCR,"Philips Solar Security Outdoor LED 6500K, Solar-Powered Flood w/PIR Motion Sensor, Remote Control w/16ft Cable, IP65 Wat",227,1,4.4,429,33.99,False,https://www.amazon.com/dp/B0F4KN1LCR
-77.78,Philips,B0D94JNXXB,"Philips Ultra AA/AAA Alkaline Batteries Combo - Great Value for Mixed Uses, Pack of 96",47,1,4.7,1918,13.84,True,https://www.amazon.com/dp/B0D94JNXXB
-77.78,Philips,B0D94NPDMD,"Philips Ultra AA Alkaline Batteries - Bulk Pack for High-Usage Devices and Offices, Pack of 100",48,1,4.7,1093,18.04,True,https://www.amazon.com/dp/B0D94NPDMD
-77.78,Philips,B0D94HHMGB,"Philips Ultra Alkaline AA/AAA Batteries Combo - Versatile for All Devices, Pack of 40",48,1,4.7,1952,7.18,True,https://www.amazon.com/dp/B0D94HHMGB
-77.78,Philips,B0D94J5329,"Philips Ultra AA/AAA Alkaline Batteries Combo - Multi-Use for Various Devices, Pack of 48",48,1,4.7,1952,9.5,True,https://www.amazon.com/dp/B0D94J5329
+96.96,Philips,B01KHIM1R4,"PHILIPS LED E27 Frosted Light Bulbs, 11 W (75 W) - Warm White, Pack of 6, Standard Range",82,1,4.5,1658,31.99,False,https://www.amazon.com/dp/B01KHIM1R4
+95.96,Philips,B01KHIM7OG,"Philips LED E27 Frosted Light Bulbs, 8 W (60 W) - Warm White, Pack of 6, Standard Range",82,2,4.5,6044,24.48,False,https://www.amazon.com/dp/B01KHIM7OG
+90.77,Philips,B0F4KN1LCR,"Philips Solar Security Outdoor LED 6500K, Solar-Powered Flood w/PIR Motion Sensor, Remote Control w/16ft Cable, IP65 Wat",246,1,4.4,429,33.99,False,https://www.amazon.com/dp/B0F4KN1LCR
+87.46,Philips,B00PGD1TLK,3 x PHILIPS 25w SES E14 Small Screw Cap Pygmy Lamps >300 Degree C Microwave / Oven Rated Light Bulbs Pack,275,10,4.4,4118,8.45,False,https://www.amazon.com/dp/B00PGD1TLK
+77.78,Philips,B0D94NPDMD,"Philips Ultra AA Alkaline Batteries - Bulk Pack for High-Usage Devices and Offices, Pack of 100",43,1,4.7,1093,18.04,True,https://www.amazon.com/dp/B0D94NPDMD
+77.78,Philips,B0D94HHMGB,"Philips Ultra Alkaline AA/AAA Batteries Combo - Versatile for All Devices, Pack of 40",43,1,4.7,1955,7.18,True,https://www.amazon.com/dp/B0D94HHMGB
+77.78,Philips,B0D94JNXXB,"Philips Ultra AA/AAA Alkaline Batteries Combo - Great Value for Mixed Uses, Pack of 96",43,1,4.7,1952,13.84,True,https://www.amazon.com/dp/B0D94JNXXB
+77.78,Philips,B0D94J5329,"Philips Ultra AA/AAA Alkaline Batteries Combo - Multi-Use for Various Devices, Pack of 48",43,1,4.7,1955,9.47,True,https://www.amazon.com/dp/B0D94J5329
 77.38,Philips,B0D94JGQGX,"Philips Ultra AA Alkaline Batteries - Long-Lasting Power for Remotes, Toys and Clocks, Pack of 40",47,1,4.6,1089,9.98,True,https://www.amazon.com/dp/B0D94JGQGX
-76.74,Philips,B0D94JY3L1,"Philips Ultra AAA Alkaline Batteries - Reliable for Remotes, Toys and Small Gadgets, Pack of 40",47,1,4.6,936,12.99,True,https://www.amazon.com/dp/B0D94JY3L1
-76.74,Philips,B0D94DZSHJ,"Philips Ultra AAA Alkaline AAA Batteries - Ideal for Businesses and High-Usage Homes, Pack of 100",48,1,4.6,936,16.49,True,https://www.amazon.com/dp/B0D94DZSHJ
-76.67,Philips,B09ZBJMKCM,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",72,1,4.5,971,4.49,True,https://www.amazon.com/dp/B09ZBJMKCM
-76.39,Philips,B09ZBJDMM6,"Philips LED Lighting Classic Spotlight LED Bulb, GU10, Pack of 6",27,2,4.6,1574,17.84,True,https://www.amazon.com/dp/B09ZBJDMM6
-76.39,Philips,B09ZBJ883F,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",27,2,4.6,2229,8.07,True,https://www.amazon.com/dp/B09ZBJ883F
-76.38,Philips,B09ZBKRTZM,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",33,2,4.6,2229,7.47,True,https://www.amazon.com/dp/B09ZBKRTZM
-76.38,Philips,B09ZBKKGHV,"Philips Classic Spotlight Bulb, GU10 Pack of 6",33,2,4.6,2229,12.88,True,https://www.amazon.com/dp/B09ZBKKGHV
-75.82,Philips,B09ZBJPNK3,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",27,2,4.6,943,6.97,True,https://www.amazon.com/dp/B09ZBJPNK3
-75.82,Philips,B09ZBJT5KB,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",27,2,4.6,943,9.27,True,https://www.amazon.com/dp/B09ZBJT5KB
-75.67,Philips,B09ZBJJTLR,"PHILIPS LED Frosted A60 Light Bulb, E27, 3 Pack",72,2,4.5,971,6.73,True,https://www.amazon.com/dp/B09ZBJJTLR
-75.16,Philips,B0CX22YJVW,"Philips Handheld Garment Steamer 3000 Series, 20 g/min, No Burns Guaranteed",90,2,4.3,1766,39.99,True,https://www.amazon.com/dp/B0CX22YJVW
-74.16,Philips,B08ZSZL3Y5,"Philips Handheld Garment Steamer 3000 Series, 20 g/min, No Burns Guaranteed",90,3,4.3,1766,39.0,True,https://www.amazon.com/dp/B08ZSZL3Y5
-73.93,Philips,B003XQJEYQ,PHILIPS 9V Zinc Battery - 6F22 - Shelf Life up to 5 Years,140,4,4.5,1022,2.41,True,https://www.amazon.com/dp/B003XQJEYQ
-73.27,Philips,B0766441R8,"PHILIPS Classic Spotlight LED Bulb, GU10, Pack of 6",252,5,4.6,7362,16.55,True,https://www.amazon.com/dp/B0766441R8
-73.11,Philips,B0F79XWF8H,"Philips Multigroom 3000 Series All-in-One 7-Piece Trimmer - Shaver and Clipper for Beard and Hair, Self-Sharpening Skin-",183,4,4.3,1374,24.97,True,https://www.amazon.com/dp/B0F79XWF8H
-72.81,Philips,B09ZBJDDKT,"PHILIPS LED Frosted A67 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",72,2,4.4,725,7.2,True,https://www.amazon.com/dp/B09ZBJDDKT
-72.81,Philips,B09ZBJRW9K,"PHILIPS LED Frosted A67 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",72,2,4.4,725,7.59,True,https://www.amazon.com/dp/B09ZBJRW9K
-72.52,Philips,B0DXLBZF4Q,"Philips OneBlade Hybrid 360 Blade Technology Electric Shaver for Face & Body, Beard Trimmer/Groomer with 3 x 360 Blade, ",158,5,4.4,12496,51.85,True,https://www.amazon.com/dp/B0DXLBZF4Q
-72.38,Philips,B01KHILJ5O,"Philips Classic Spotlight LED Bulb, GU10, Pack of 6",33,6,4.6,27270,13.94,True,https://www.amazon.com/dp/B01KHILJ5O
-72.28,Philips,B0D94KKF6D,"Philips Ultra C Alkaline Batteries, LR14 - Powerful for Flashlights and Toys, Pack of 20",47,1,4.6,490,11.55,True,https://www.amazon.com/dp/B0D94KKF6D
-71.56,Philips,B09ZBJPSHT,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",72,2,4.6,520,6.75,True,https://www.amazon.com/dp/B09ZBJPSHT
-71.56,Philips,B09ZBJZRCY,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",72,2,4.6,520,4.99,True,https://www.amazon.com/dp/B09ZBJZRCY
-71.42,Philips,B0D94L16X6,"Philips Ultra 9V Alkaline Batteries, 6LR61 - Essential for Smoke Detectors and Radios, Pack of 20",47,1,4.7,364,14.81,True,https://www.amazon.com/dp/B0D94L16X6
-70.9,Philips,B0D94J2P12,"Philips Ultra D Alkaline Batteries, LR20 - High Capacity for Flashlights and Large Devices, Pack of 20",48,1,4.6,352,22.26,True,https://www.amazon.com/dp/B0D94J2P12
-70.79,Philips,B09ZBJHJFT,"PHILIPS LED Frosted A60 Light Bulb, E27 Edison Screw, 6 Pack",72,2,4.6,443,10.99,True,https://www.amazon.com/dp/B09ZBJHJFT
-70.78,Philips,B0B4BHNVJN,"PHILIPS LED Frosted A60 Light Bulb, B22 Bayonet Cap, 3 Pack",116,2,4.7,404,7.06,True,https://www.amazon.com/dp/B0B4BHNVJN
-70.0,Philips,B09ZBJPNK4,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",72,2,4.7,324,8.42,True,https://www.amazon.com/dp/B09ZBJPNK4
-69.79,Philips,B0CF2DJHFQ,"Philips 1000 Series Fabric Shaver, Rechargeable, USB, Safe on Garments",16,7,4.2,2891,25.28,True,https://www.amazon.com/dp/B0CF2DJHFQ
-69.77,Philips,B09ZBKRMG1,"PHILIPS LED Frosted A67 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",90,2,4.5,382,15.47,True,https://www.amazon.com/dp/B09ZBKRMG1
-69.29,Philips,B0F32SKXXH,"Philips OneBlade Travel Case - Perfect When On The Go, Prevents Damage, Compatible with QP27XX, QP28XX and QP6XXX, Model",93,1,4.5,234,14.8,True,https://www.amazon.com/dp/B0F32SKXXH
-68.51,Philips,B09ZBJR2VB,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",72,2,4.6,215,7.92,True,https://www.amazon.com/dp/B09ZBJR2VB
-68.43,Philips,B09ZBL2FHQ,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",72,2,4.5,247,13.49,True,https://www.amazon.com/dp/B09ZBL2FHQ
-68.02,Philips,B09ZBJ4L85,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",72,2,4.4,246,7.99,True,https://www.amazon.com/dp/B09ZBJ4L85
-67.99,Philips,B07M8J529S,"Philips Fabric Shaver and Lint Remover, 8800 rpm, Safe on Clothes",11,10,4.5,151433,15.99,True,https://www.amazon.com/dp/B07M8J529S
-66.76,Philips,B0DQQBPW6X,"Philips Lois Outdoor Floodlight with Motion Sensor, Black",208,2,4.4,126,19.99,True,https://www.amazon.com/dp/B0DQQBPW6X
-66.66,Philips,B0DQQBGNV4,"Philips Lois Outdoor Floodlight, 30W, Black",286,2,4.5,80,11.25,True,https://www.amazon.com/dp/B0DQQBGNV4
-66.39,Philips,B0DQQ9KD6Y,"Philips Lois Outdoor Floodlight, White, 30 W",208,2,4.5,49,10.79,True,https://www.amazon.com/dp/B0DQQ9KD6Y
-64.97,Philips,B0DQQ79BD9,"Philips Lois Outdoor Floodlight, White, 10 W",208,2,4.1,67,8.27,True,https://www.amazon.com/dp/B0DQQ79BD9
-63.99,Philips,B0DQLPD1CG,Philips Air Fryer 1000 Series Dual Basket 7.1L Mega Draw or Dual 3.5L+3.5L,259,6,4.5,212,79.99,True,https://www.amazon.com/dp/B0DQLPD1CG
-49.98,Philips,B0F5HTPXFS,"Philips LED Classic Spot Light Bulb 12 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting",33,,,,,False,https://www.amazon.com/dp/B0F5HTPXFS
+76.75,Philips,B0D94JY3L1,"Philips Ultra AAA Alkaline Batteries - Reliable for Remotes, Toys and Small Gadgets, Pack of 40",43,1,4.6,937,12.99,True,https://www.amazon.com/dp/B0D94JY3L1
+76.75,Philips,B0D94DZSHJ,"Philips Ultra AAA Alkaline AAA Batteries - Ideal for Businesses and High-Usage Homes, Pack of 100",43,1,4.6,937,16.49,True,https://www.amazon.com/dp/B0D94DZSHJ
+76.67,Philips,B09ZBJMKCM,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",82,1,4.5,971,4.49,True,https://www.amazon.com/dp/B09ZBJMKCM
+76.39,Philips,B09ZBKRTZM,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",27,2,4.6,2231,7.49,True,https://www.amazon.com/dp/B09ZBKRTZM
+76.39,Philips,B09ZBJDMM6,"Philips LED Lighting Classic Spotlight LED Bulb, GU10, Pack of 6",28,2,4.6,1577,24.03,True,https://www.amazon.com/dp/B09ZBJDMM6
+76.39,Philips,B09ZBKKGHV,"Philips Classic Spotlight Bulb, GU10 Pack of 6",28,2,4.6,2231,12.88,True,https://www.amazon.com/dp/B09ZBKKGHV
+76.39,Philips,B09ZBJ883F,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",28,2,4.6,2231,4.99,True,https://www.amazon.com/dp/B09ZBJ883F
+75.84,Philips,B09ZBJPNK3,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",28,2,4.6,945,6.97,True,https://www.amazon.com/dp/B09ZBJPNK3
+75.84,Philips,B09ZBJT5KB,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",28,2,4.6,945,9.27,True,https://www.amazon.com/dp/B09ZBJT5KB
+75.67,Philips,B09ZBJJTLR,"PHILIPS LED Frosted A60 Light Bulb, E27, 3 Pack",82,2,4.5,971,6.73,True,https://www.amazon.com/dp/B09ZBJJTLR
+75.08,Philips,B0CX22YJVW,"Philips Handheld Garment Steamer 3000 Series, 20 g/min, No Burns Guaranteed",245,2,4.3,1768,39.99,True,https://www.amazon.com/dp/B0CX22YJVW
+74.08,Philips,B08ZSZL3Y5,"Philips Handheld Garment Steamer 3000 Series, 20 g/min, No Burns Guaranteed",245,3,4.3,1768,39.0,True,https://www.amazon.com/dp/B08ZSZL3Y5
+73.93,Philips,B003XQJEYQ,PHILIPS 9V Zinc Battery - 6F22 - Shelf Life up to 5 Years,134,4,4.5,1022,2.72,True,https://www.amazon.com/dp/B003XQJEYQ
+73.11,Philips,B0F79XWF8H,"Philips Multigroom 3000 Series All-in-One 7-Piece Trimmer - Shaver and Clipper for Beard and Hair, Self-Sharpening Skin-",172,4,4.3,1383,24.97,True,https://www.amazon.com/dp/B0F79XWF8H
+72.81,Philips,B09ZBJDDKT,"PHILIPS LED Frosted A67 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",82,2,4.4,725,7.21,True,https://www.amazon.com/dp/B09ZBJDDKT
+72.81,Philips,B09ZBJRW9K,"PHILIPS LED Frosted A67 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",82,2,4.4,725,7.6,True,https://www.amazon.com/dp/B09ZBJRW9K
+72.29,Philips,B0D94KKF6D,"Philips Ultra C Alkaline Batteries, LR14 - Powerful for Flashlights and Toys, Pack of 20",43,1,4.6,491,11.55,True,https://www.amazon.com/dp/B0D94KKF6D
+71.56,Philips,B09ZBJPSHT,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",82,2,4.6,520,6.85,True,https://www.amazon.com/dp/B09ZBJPSHT
+71.56,Philips,B09ZBJZRCY,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",82,2,4.6,520,5.11,True,https://www.amazon.com/dp/B09ZBJZRCY
+71.44,Philips,B0D94L16X6,"Philips Ultra 9V Alkaline Batteries, 6LR61 - Essential for Smoke Detectors and Radios, Pack of 20",43,1,4.7,366,14.81,True,https://www.amazon.com/dp/B0D94L16X6
+71.39,Philips,B01KHILJ5O,"Philips Classic Spotlight LED Bulb, GU10, Pack of 6",28,7,4.6,27273,13.94,True,https://www.amazon.com/dp/B01KHILJ5O
+70.9,Philips,B0D94J2P12,"Philips Ultra D Alkaline Batteries, LR20 - High Capacity for Flashlights and Large Devices, Pack of 20",47,1,4.6,352,22.26,True,https://www.amazon.com/dp/B0D94J2P12
+70.81,Philips,B09ZBJHJFT,"PHILIPS LED Frosted A60 Light Bulb, E27 Edison Screw, 6 Pack",82,2,4.6,445,10.99,True,https://www.amazon.com/dp/B09ZBJHJFT
+70.78,Philips,B0B4BHNVJN,"PHILIPS LED Frosted A60 Light Bulb, B22 Bayonet Cap, 3 Pack",127,2,4.7,404,7.15,True,https://www.amazon.com/dp/B0B4BHNVJN
+70.0,Philips,B09ZBJPNK4,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",82,2,4.7,324,9.66,True,https://www.amazon.com/dp/B09ZBJPNK4
+69.79,Philips,B0CF2DJHFQ,"Philips 1000 Series Fabric Shaver, Rechargeable, USB, Safe on Garments",20,7,4.2,2893,25.28,True,https://www.amazon.com/dp/B0CF2DJHFQ
+69.78,Philips,B09ZBKRMG1,"PHILIPS LED Frosted A67 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",82,2,4.5,382,15.47,True,https://www.amazon.com/dp/B09ZBKRMG1
+69.19,Philips,B0F32SKXXH,"Philips OneBlade Travel Case - Perfect When On The Go, Prevents Damage, Compatible with QP27XX, QP28XX and QP6XXX, Model",290,1,4.5,234,14.8,True,https://www.amazon.com/dp/B0F32SKXXH
+68.93,Philips,B09ZBJR2VB,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",82,2,4.7,217,7.92,True,https://www.amazon.com/dp/B09ZBJR2VB
+68.43,Philips,B09ZBL2FHQ,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",82,2,4.5,247,13.49,True,https://www.amazon.com/dp/B09ZBL2FHQ
+68.43,Philips,B09ZBJ4L85,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",82,2,4.5,247,7.99,True,https://www.amazon.com/dp/B09ZBJ4L85
+66.99,Philips,B07M8J529S,"Philips Fabric Shaver and Lint Remover, 8800 rpm, Safe on Clothes",20,11,4.5,151441,15.99,True,https://www.amazon.com/dp/B07M8J529S
+66.8,Philips,B0DQQC1HCB,"Philips Lois Outdoor Floodlight, 20W, Black",290,2,4.6,54,8.99,True,https://www.amazon.com/dp/B0DQQC1HCB
+66.72,Philips,B0DQQBPW6X,"Philips Lois Outdoor Floodlight with Motion Sensor, Black",290,2,4.4,127,19.99,True,https://www.amazon.com/dp/B0DQQBPW6X
+66.52,Philips,B0DQQ9HG7K,"Philips Lois Outdoor Floodlight with Motion Sensor, Black",290,2,4.3,147,24.99,True,https://www.amazon.com/dp/B0DQQ9HG7K
+66.36,Philips,B0DQQ9KD6Y,"Philips Lois Outdoor Floodlight, White, 30 W",290,2,4.5,51,10.79,True,https://www.amazon.com/dp/B0DQQ9KD6Y
+65.65,Philips,B0DQQDPPFL,"Philips Lois Outdoor Floodlight with Motion Sensor, Black",290,2,4.2,100,16.99,True,https://www.amazon.com/dp/B0DQQDPPFL
+65.11,Philips,B0DQQ77TP9,"Philips Lois Outdoor Floodlight with Motion Sensor, Black",290,2,4.1,86,19.99,True,https://www.amazon.com/dp/B0DQQ77TP9
+64.92,Philips,B0DQQ79BD9,"Philips Lois Outdoor Floodlight, White, 10 W",290,2,4.1,67,8.26,True,https://www.amazon.com/dp/B0DQQ79BD9
+49.99,Philips,B0F5HTPXFS,"Philips LED Classic Spot Light Bulb 12 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting",28,,,,,False,https://www.amazon.com/dp/B0F5HTPXFS
