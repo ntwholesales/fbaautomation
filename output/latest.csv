@@ -1,45 +1,43 @@
 score,brand,asin,title,sales_rank,offer_count,rating,review_count,price_usd,amazon_sells_it,amazon_url
-87.75,Philips,B099SKJ53R,"Philips Sonicare ProtectiveClean 5100 Electric Toothbrush, Black, with Travel Case, 3 x Cleaning Modes & 2 x Whitening B",146,1,4.5,82,99.99,False,https://www.amazon.com/dp/B099SKJ53R
-81.44,Philips,B0CWP7WXB6,Philips Air Fryer 2000 Series Single basket 6.2L with Viewing Window,172,14,4.6,713,59.99,False,https://www.amazon.com/dp/B0CWP7WXB6
-78.7,Philips,B0BS747TYL,Philips OneBlade 5 Stainless Steel Original Replacement Blades Compatible with all OneBlade Electric Razors (model QP250,198,,4.7,22063,,False,https://www.amazon.com/dp/B0BS747TYL
-77.79,Philips,B0D94NPDMD,"Philips Ultra AA Batteries, Pack of 100, Alkaline 1.5V, LR6 | Bulk Power for Offices, Remotes, Wireless Mice and Torches",19,1,4.7,1206,14.09,True,https://www.amazon.com/dp/B0D94NPDMD
-77.79,Philips,B0D94JGQGX,"Philips Ultra AA Batteries, Pack of 40, Alkaline 1.5V, LR6 | Long-Lasting Power for Remotes, Toys, Clocks and Game Contr",19,1,4.7,1196,11.06,True,https://www.amazon.com/dp/B0D94JGQGX
-77.79,Philips,B0D94HHMGB,"Philips Ultra AA & AAA Batteries, Mixed Pack of 40, Alkaline 1.5V, LR6/LR03 | Everyday Power for Remotes, Toys, Torches ",19,1,4.7,2230,11.99,True,https://www.amazon.com/dp/B0D94HHMGB
-77.79,Philips,B0D94JNXXB,"Philips Ultra AA/AAA Alkaline Batteries Combo - Great Value for Mixed Uses, Pack of 96",19,1,4.7,2230,17.3,True,https://www.amazon.com/dp/B0D94JNXXB
-77.79,Philips,B0D94J5329,"Philips Ultra AA & AAA Batteries, Mixed Pack of 48, Alkaline 1.5V, LR6/LR03 | Long-Lasting Power for Remotes, Toys, Game",19,1,4.7,2230,9.5,True,https://www.amazon.com/dp/B0D94J5329
-77.79,Philips,B0D94JY3L1,"Philips Ultra AAA Batteries, Pack of 40, Alkaline 1.5V, LR03 | Long-Lasting Power for Remotes, Toys, Clocks and Wireless",19,1,4.7,1052,12.99,True,https://www.amazon.com/dp/B0D94JY3L1
-77.79,Philips,B0D94DZSHJ,"Philips Ultra AAA Batteries, Pack of 100, Alkaline 1.5V, LR03 | Bulk Power for Offices, Remotes, Wireless Keyboards and ",19,1,4.7,1052,13.59,True,https://www.amazon.com/dp/B0D94DZSHJ
-76.97,Philips,B09ZBJMKCM,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",57,1,4.5,1003,3.82,True,https://www.amazon.com/dp/B09ZBJMKCM
-76.88,Philips,B0CHMPJB3Y,"Philips Electric Shaver 3000 Series - Wet & Dry Electric Shaver for Men with SkinProtect Technology in Dark Moon, Pop-up",234,1,4.5,6687,49.99,True,https://www.amazon.com/dp/B0CHMPJB3Y
-76.39,Philips,B09ZBKRTZM,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",18,2,4.6,2310,4.67,True,https://www.amazon.com/dp/B09ZBKRTZM
-76.39,Philips,B09ZBKKGHV,"Philips Classic Spotlight Bulb, GU10 Pack of 6",21,2,4.6,2310,12.59,True,https://www.amazon.com/dp/B09ZBKKGHV
-76.39,Philips,B09ZBJ883F,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",21,2,4.6,2310,3.39,True,https://www.amazon.com/dp/B09ZBJ883F
-76.08,Philips,B09ZBJPNK3,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",21,2,4.6,969,5.67,True,https://www.amazon.com/dp/B09ZBJPNK3
-76.08,Philips,B09ZBJT5KB,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",21,2,4.6,969,7.87,True,https://www.amazon.com/dp/B09ZBJT5KB
-75.97,Philips,B09ZBJJTLR,"PHILIPS LED Frosted A60 Light Bulb, E27, 3 Pack",57,2,4.5,1003,5.94,True,https://www.amazon.com/dp/B09ZBJJTLR
-74.39,Philips,B01KHILJ5O,"Philips Classic Spotlight LED Bulb, GU10, Pack of 6",21,4,4.6,27425,9.99,True,https://www.amazon.com/dp/B01KHILJ5O
-73.39,Philips,B09ZBJDMM6,"Philips LED Lighting Classic Spotlight LED Bulb, GU10, Pack of 6",21,5,4.6,1648,9.09,True,https://www.amazon.com/dp/B09ZBJDMM6
-73.11,Philips,B0B9RQB3NQ,"Philips Facial Hair Remover 5000 Series, Personal Groomer for Women, Cordless and Compact, with Hypollergenic Head, Gent",174,4,4.3,1661,14.41,True,https://www.amazon.com/dp/B0B9RQB3NQ
-72.75,Philips,B0D94KKF6D,"Philips Ultra C Batteries, Pack of 20, Alkaline 1.5V, LR14 | High-Capacity Power for Torches, Radios and Musical Toys",19,1,4.6,536,10.89,True,https://www.amazon.com/dp/B0D94KKF6D
-72.17,Philips,B0CWNXKY9B,"Philips Airfryer 2000 Series 4.2 L, 1500 W, 13 Cooking Options, Black",172,4,4.7,746,49.95,True,https://www.amazon.com/dp/B0CWNXKY9B
-71.87,Philips,B0D94L16X6,"Philips Ultra 9V Batteries, Pack of 20, Alkaline, 6LR61 | Long-Lasting Power for Smoke Alarms, Radios and Guitar Pedals",19,1,4.7,408,19.49,True,https://www.amazon.com/dp/B0D94L16X6
-71.57,Philips,B0DXLBZF4Q,"Philips OneBlade Hybrid 360 Blade Technology Electric Shaver for Face & Body, Beard Trimmer/Groomer with 3 x 360 Blade, ",53,6,4.4,13371,31.88,True,https://www.amazon.com/dp/B0DXLBZF4Q
-71.29,Philips,B0D94J2P12,"Philips Ultra D Batteries, Pack of 20, Alkaline 1.5V, LR20 | High-Capacity Power for Torches, Lanterns and Portable Radi",19,1,4.6,390,15.99,True,https://www.amazon.com/dp/B0D94J2P12
-71.13,Philips,B0DCGK4MT7,"Philips Sonicare 5300 Electric Toothbrush, Sonic Toothbrush with 2 Intensity Levels, Pressure Alert, EasyStart, SmarTime",146,6,4.3,2837,52.99,True,https://www.amazon.com/dp/B0DCGK4MT7
-71.07,Philips,B0B4BHNVJN,"PHILIPS LED Frosted A60 Light Bulb, B22 Bayonet Cap, 3 Pack",103,2,4.7,432,5.94,True,https://www.amazon.com/dp/B0B4BHNVJN
-71.01,Philips,B09ZBJHJFT,"PHILIPS LED Frosted A60 Light Bulb, E27 Edison Screw, 6 Pack",57,2,4.6,464,9.33,True,https://www.amazon.com/dp/B09ZBJHJFT
-70.52,Philips,B09ZBJ4L85,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",57,2,4.6,415,6.79,True,https://www.amazon.com/dp/B09ZBJ4L85
+87.75,Philips,B099SKJ53R,"Philips Sonicare ProtectiveClean 5100 Electric Toothbrush, Black, with Travel Case, 3 x Cleaning Modes & 2 x Whitening B",143,1,4.5,82,99.99,False,https://www.amazon.com/dp/B099SKJ53R
+78.74,Philips,B0BS747TYL,Philips OneBlade 5 Stainless Steel Original Replacement Blades Compatible with all OneBlade Electric Razors (model QP250,117,,4.7,22063,,False,https://www.amazon.com/dp/B0BS747TYL
+77.79,Philips,B0D94NPDMD,"Philips Ultra AA Batteries, Pack of 100, Alkaline 1.5V, LR6 | Bulk Power for Offices, Remotes, Wireless Mice and Torches",18,1,4.7,1215,14.09,True,https://www.amazon.com/dp/B0D94NPDMD
+77.79,Philips,B0D94JGQGX,"Philips Ultra AA Batteries, Pack of 40, Alkaline 1.5V, LR6 | Long-Lasting Power for Remotes, Toys, Clocks and Game Contr",18,1,4.7,1215,11.06,True,https://www.amazon.com/dp/B0D94JGQGX
+77.79,Philips,B0D94HHMGB,"Philips Ultra AA & AAA Batteries, Mixed Pack of 40, Alkaline 1.5V, LR6/LR03 | Everyday Power for Remotes, Toys, Torches ",18,1,4.7,2246,11.99,True,https://www.amazon.com/dp/B0D94HHMGB
+77.79,Philips,B0D94JNXXB,"Philips Ultra AA/AAA Alkaline Batteries Combo - Great Value for Mixed Uses, Pack of 96",18,1,4.7,2246,17.29,True,https://www.amazon.com/dp/B0D94JNXXB
+77.79,Philips,B0D94J5329,"Philips Ultra AA & AAA Batteries, Mixed Pack of 48, Alkaline 1.5V, LR6/LR03 | Long-Lasting Power for Remotes, Toys, Game",18,1,4.7,2246,9.48,True,https://www.amazon.com/dp/B0D94J5329
+77.79,Philips,B0D94DZSHJ,"Philips Ultra AAA Batteries, Pack of 100, Alkaline 1.5V, LR03 | Bulk Power for Offices, Remotes, Wireless Keyboards and ",18,1,4.7,1056,13.59,True,https://www.amazon.com/dp/B0D94DZSHJ
+77.79,Philips,B0D94JY3L1,"Philips Ultra AAA Batteries, Pack of 40, Alkaline 1.5V, LR03 | Long-Lasting Power for Remotes, Toys, Clocks and Wireless",20,1,4.7,1056,12.99,True,https://www.amazon.com/dp/B0D94JY3L1
+76.97,Philips,B09ZBJMKCM,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",57,1,4.5,1004,3.82,True,https://www.amazon.com/dp/B09ZBJMKCM
+76.39,Philips,B09ZBKKGHV,"Philips Classic Spotlight Bulb, GU10 Pack of 6",19,2,4.6,2315,12.59,True,https://www.amazon.com/dp/B09ZBKKGHV
+76.39,Philips,B09ZBJ883F,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",19,2,4.6,2315,3.39,True,https://www.amazon.com/dp/B09ZBJ883F
+76.39,Philips,B09ZBKRTZM,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 35W, Non Dimmable. for Home Indoor Lighting",21,2,4.6,2315,4.67,True,https://www.amazon.com/dp/B09ZBKRTZM
+76.1,Philips,B09ZBJT5KB,"Philips LED Classic Spot Light Bulb 3 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",19,2,4.6,971,7.87,True,https://www.amazon.com/dp/B09ZBJT5KB
+76.1,Philips,B09ZBJPNK3,"Philips LED Classic Spot Light Bulb 2 Pack [Warm White 2700K - GU10] 50W, Non Dimmable. for Home Indoor Lighting, Value ",21,2,4.6,971,5.67,True,https://www.amazon.com/dp/B09ZBJPNK3
+75.96,Philips,B09ZBJJTLR,"PHILIPS LED Frosted A60 Light Bulb, E27, 3 Pack",78,2,4.5,1004,5.94,True,https://www.amazon.com/dp/B09ZBJJTLR
+74.39,Philips,B01KHILJ5O,"Philips Classic Spotlight LED Bulb, GU10, Pack of 6",19,4,4.6,27429,9.99,True,https://www.amazon.com/dp/B01KHILJ5O
+73.39,Philips,B09ZBJDMM6,"Philips LED Lighting Classic Spotlight LED Bulb, GU10, Pack of 6",19,5,4.6,1649,9.09,True,https://www.amazon.com/dp/B09ZBJDMM6
+73.13,Philips,B0B9RQB3NQ,"Philips Facial Hair Remover 5000 Series, Personal Groomer for Women, Cordless and Compact, with Hypollergenic Head, Gent",141,4,4.3,1668,14.41,True,https://www.amazon.com/dp/B0B9RQB3NQ
+72.75,Philips,B0D94KKF6D,"Philips Ultra C Batteries, Pack of 20, Alkaline 1.5V, LR14 | High-Capacity Power for Torches, Radios and Musical Toys",18,1,4.6,536,10.89,True,https://www.amazon.com/dp/B0D94KKF6D
+72.48,Philips,B0DCFP3Z14,"Philips OneBlade 360 Authentic Electric Beard Trimmer and Shaver, 2X 360 Blades, 3X Stubble Comb (1,3,5mm), QP2724/31",241,5,4.4,4806,24.99,True,https://www.amazon.com/dp/B0DCFP3Z14
+71.89,Philips,B0D94L16X6,"Philips Ultra 9V Batteries, Pack of 20, Alkaline, 6LR61 | Long-Lasting Power for Smoke Alarms, Radios and Guitar Pedals",18,1,4.7,410,19.49,True,https://www.amazon.com/dp/B0D94L16X6
+71.58,Philips,B0DXLBZF4Q,"Philips OneBlade Hybrid 360 Blade Technology Electric Shaver for Face & Body, Beard Trimmer/Groomer with 3 x 360 Blade, ",33,6,4.4,13408,31.88,True,https://www.amazon.com/dp/B0DXLBZF4Q
+71.3,Philips,B0D94J2P12,"Philips Ultra D Batteries, Pack of 20, Alkaline 1.5V, LR20 | High-Capacity Power for Torches, Lanterns and Portable Radi",18,1,4.6,391,15.99,True,https://www.amazon.com/dp/B0D94J2P12
+71.13,Philips,B0DCGK4MT7,"Philips Sonicare 5300 Electric Toothbrush, Sonic Toothbrush with 2 Intensity Levels, Pressure Alert, EasyStart, SmarTime",143,6,4.3,2850,52.99,True,https://www.amazon.com/dp/B0DCGK4MT7
+71.05,Philips,B0B4BHNVJN,"PHILIPS LED Frosted A60 Light Bulb, B22 Bayonet Cap, 3 Pack",158,2,4.7,433,5.94,True,https://www.amazon.com/dp/B0B4BHNVJN
+71.01,Philips,B09ZBJHJFT,"PHILIPS LED Frosted A60 Light Bulb, E27 Edison Screw, 6 Pack",78,2,4.6,465,9.33,True,https://www.amazon.com/dp/B09ZBJHJFT
 70.52,Philips,B09ZBJR2VB,"PHILIPS LED Frosted A60 Light Bulb 2 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",57,2,4.6,415,4.24,True,https://www.amazon.com/dp/B09ZBJR2VB
-70.14,Philips,B09ZBJPNK4,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",57,2,4.7,337,8.49,True,https://www.amazon.com/dp/B09ZBJPNK4
+70.51,Philips,B09ZBJ4L85,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",78,2,4.6,415,6.79,True,https://www.amazon.com/dp/B09ZBJ4L85
+70.14,Philips,B09ZBJPNK4,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",78,2,4.7,338,8.49,True,https://www.amazon.com/dp/B09ZBJPNK4
 70.06,Philips,B09ZBKRMG1,"PHILIPS LED Frosted A67 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",57,2,4.5,409,15.35,True,https://www.amazon.com/dp/B09ZBKRMG1
-69.7,Philips,B0F32SKXXH,"Philips OneBlade Travel Case - Perfect When On The Go, Prevents Damage, Compatible with QP27XX, QP28XX and QP6XXX, Model",37,1,4.5,272,14.29,True,https://www.amazon.com/dp/B0F32SKXXH
-69.7,Philips,B0DFVRT79C,"Philips TAR1609 Portable FM/AM radio with Internal Rechargeable Battery, AAA Battery & Crank Backup, Solar Power, Built-",37,2,4.7,292,29.99,True,https://www.amazon.com/dp/B0DFVRT79C
-68.79,Philips,B0CF2DJHFQ,"Philips 1000 Series Fabric Shaver, Rechargeable, USB, Safe on Garments",18,8,4.2,2989,19.99,True,https://www.amazon.com/dp/B0CF2DJHFQ
-68.6,Philips,B0H1WNC3SQ,Philips 40PFS6050/05 40 Inch Full HD LED Smart TV,67,,4.6,23,,False,https://www.amazon.com/dp/B0H1WNC3SQ
-68.24,Philips,B09ZBJPSHT,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",57,2,4.5,227,5.09,True,https://www.amazon.com/dp/B09ZBJPSHT
-67.91,Philips,B09ZBJDDKT,"PHILIPS LED Frosted A67 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",57,2,4.3,274,6.14,True,https://www.amazon.com/dp/B09ZBJDDKT
-66.98,Philips,B09ZBL2FHQ,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",57,2,4.6,61,11.47,True,https://www.amazon.com/dp/B09ZBL2FHQ
-66.38,Philips,B0DQLPD1CG,"Philips 1000 Series Dual Basket Airfryer, 7.1L, RapidAir Technology, Black",172,4,4.5,247,79.0,True,https://www.amazon.com/dp/B0DQLPD1CG
-65.99,Philips,B07M8J529S,"Philips Fabric Shaver and Lint Remover, 8800 rpm, Safe on Clothes",20,12,4.5,152096,15.99,True,https://www.amazon.com/dp/B07M8J529S
-62.99,Philips,B00E3862DE,"Philips Lint Remover and Fabric Shaver, 8800 rpm, 3 Blades, for Clothes",20,15,4.5,152096,9.99,True,https://www.amazon.com/dp/B00E3862DE
-60.8,Philips,B0DTBSTNHW,"Philips Sonicare 5300 Electric Toothbrush, Sonic Toothbrush with 2 Intensity Levels, Pressure Alert, EasyStart, SmarTime",146,12,4.5,487,54.99,True,https://www.amazon.com/dp/B0DTBSTNHW
+69.79,Philips,B0CF2DJHFQ,"Philips 1000 Series Fabric Shaver, Rechargeable, USB, Safe on Garments",18,7,4.2,2994,19.99,True,https://www.amazon.com/dp/B0CF2DJHFQ
+69.71,Philips,B0F32SKXXH,"Philips OneBlade Travel Case - Perfect When On The Go, Prevents Damage, Compatible with QP27XX, QP28XX and QP6XXX, Model",33,1,4.5,273,14.49,True,https://www.amazon.com/dp/B0F32SKXXH
+69.68,Philips,B0BWFNBJ7C,"Philips Avent Natural Response Baby Bottle - 3 x 260ml Baby Milk Bottle for Newborns and Up, BPA Free, 1+ Months (Model ",238,9,4.7,4280,14.24,True,https://www.amazon.com/dp/B0BWFNBJ7C
+69.33,Philips,B0DFVRT79C,"Philips TAR1609 Portable FM/AM radio with Internal Rechargeable Battery, AAA Battery & Crank Backup, Solar Power, Built-",34,2,4.6,295,34.99,True,https://www.amazon.com/dp/B0DFVRT79C
+68.57,Philips,B0H1WNC3SQ,Philips 40PFS6050/05 40 Inch Full HD LED Smart TV,130,,4.6,23,,False,https://www.amazon.com/dp/B0H1WNC3SQ
+68.23,Philips,B09ZBJPSHT,"PHILIPS LED Frosted A60 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 40W, Non Dimmable. for Home Indoor Light",78,2,4.5,227,5.09,True,https://www.amazon.com/dp/B09ZBJPSHT
+67.9,Philips,B09ZBJDDKT,"PHILIPS LED Frosted A67 Light Bulb 3 Pack [Warm White 2700K - E27 Edison Screw] 100W, Non Dimmable. for Home Indoor Ligh",78,2,4.3,274,6.14,True,https://www.amazon.com/dp/B09ZBJDDKT
+66.98,Philips,B09ZBL2FHQ,"PHILIPS LED Frosted A60 Light Bulb 6 Pack [Warm White 2700K - E27 Edison Screw] 60W, Non Dimmable. for Home Indoor Light",78,2,4.6,62,11.47,True,https://www.amazon.com/dp/B09ZBL2FHQ
+66.81,Philips,B0H4QG6WXK,"Philips GU10 LED Bulb, Warm Glow Glass Bulb, A60, 6-Pack",243,2,4.5,93,12.74,True,https://www.amazon.com/dp/B0H4QG6WXK
+64.99,Philips,B07M8J529S,"Philips Fabric Shaver and Lint Remover, 8800 rpm, Safe on Clothes",18,13,4.5,152123,15.89,True,https://www.amazon.com/dp/B07M8J529S
+59.83,Philips,B0DTBSTNHW,"Philips Sonicare 5300 Electric Toothbrush, Sonic Toothbrush with 2 Intensity Levels, Pressure Alert, EasyStart, SmarTime",143,13,4.5,490,54.99,True,https://www.amazon.com/dp/B0DTBSTNHW
